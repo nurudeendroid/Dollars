@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="JPMCDollars" />
+        <module name="MoneyConverter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="JPMCDollars" target="1.8" />
+      <module name="MoneyConverter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
